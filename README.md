@@ -108,7 +108,6 @@ The current version is minimal. Future technical upgrades include:
 - **Oracle Redundancy:** Add multiple price feeds per asset and medianizer contracts.
 - **Access Control:** Implement role-based access control (ADMIN_ROLE, REBALANCER_ROLE, ORACLE_UPDATER_ROLE).
 - **Circuit Breakers:** Emergency pause functionality for minting, redemption, and rebalancing.
-- **Dynamic Basket Weights:** Adjust stablecoin allocations dynamically based on market data.
 - **Slippage Protection:** Implement minimum and maximum slippage tolerances on swaps.
 - **Deposit/Redemption Fees:** Add configurable fees directed to a protocol treasury.
 - **Auditable Events:** Emit events for price updates, swaps, mints, and redemptions.
