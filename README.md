@@ -152,3 +152,12 @@ Portfolio optimization and stablecoin monetary quality analysis in Nautilus draw
   - Stablecoin vs fiat liquidity metrics
 
 ---
+
+## Website
+
+The Nautilus project website is available [here](https://www.nautstable.com).
+
+> **Note:** This is an early testing version.  
+> If you would like to interact with the protocol, please email [paschal0@chicagobooth.edu] to receive the correct WETH token address for testnet interaction.
+
+---
