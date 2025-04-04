@@ -117,22 +117,6 @@ All extensions are optional but recommended for production deployment.
 
 ## Research Background
 
-Portfolio optimization and stablecoin risk modeling in Nautilus draw from two major research efforts:
-
-### 1. Stablecoin Basket Optimization (Hierarchical Risk Parity)
-
-- Based on:  
-  Marcos López de Prado, *"Building Diversified Portfolios that Perform Well Out-of-Sample"*, Journal of Portfolio Management, 2016.  
-  [DOI Link](https://doi.org/10.3905/jpm.2016.42.4.059)
-
-- Nautilus uses Hierarchical Risk Parity (HRP) to optimize stablecoin weights, reducing risk through clustering highly correlated assets and improving peg robustness.
-
-- More detailed implementation:  
-  [StablecoinHRP GitHub Repository](https://github.com/elliotjames-paschal/StablecoinHRP)
-
----
-## Research Background
-
 Portfolio optimization and stablecoin monetary quality analysis in Nautilus draw from two research efforts:
 
 ### 1. Stablecoin Basket Optimization (Hierarchical Risk Parity)
