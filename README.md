@@ -7,7 +7,7 @@ This repository contains the Solidity smart contracts for core functionality.
 ---
 ## Origin
 
-Nautilus adapts ideas from the 1960 paper “The Case for an Unmanaged Investment Company” by Edward F. Renshaw and Paul J. Feldstein [paper](https://www.jstor.org/stable/4479808)], which advocated passive structures to improve efficiency in investment management. Drawing on this approach, Nautilus uses passive asset management principles to design a stablecoin backed by a diversified basket of on-chain assets aimed at preserving monetary quality.
+Nautilus adapts ideas from the 1960 paper "[The Case for an Unmanaged Investment Company"](https://www.jstor.org/stable/4479808) by Edward F. Renshaw and Paul J. Feldstein https://www.jstor.org/stable/4479808, which advocated passive structures to improve efficiency in investment management. Drawing on this approach, Nautilus uses passive asset management principles to design a stablecoin backed by a diversified basket of on-chain assets aimed at preserving monetary quality.
 
 
 ## Contract List
